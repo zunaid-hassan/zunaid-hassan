@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 [![TOP-JS](https://img.shields.io/badge/The%20Odin%20Project%20-%20Full%20Stack%20JavaScript-gold?style=for-the-badge&logo=theodinproject&logoColor=white)](https://www.theodinproject.com/)
 
+[![HarvardX - CS50](https://img.shields.io/badge/HarvardX-CS50-A51C30?style=for-the-badge)](https://cs50.harvard.edu/x/)
+
+
 
