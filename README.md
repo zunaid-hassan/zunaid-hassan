@@ -1,4 +1,4 @@
-## Hello, I'm Zunaid
+## Hello, I'm Zunaid (README Work in progress)
 **PhD student in Deep Learning • Engaged in The Odin Project (Fullstack JavaScript)**
 
 ![](https://komarev.com/ghpvc/?username=zunaid-hassan&style=pixel)
