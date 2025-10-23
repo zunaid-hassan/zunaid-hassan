@@ -1,5 +1,6 @@
 ## Hello, I'm Zunaid
 **PhD student in Deep Learning • Engaged in The Odin Project (Fullstack JavaScript)**
+<!--  ![](https://komarev.com/ghpvc/?username=zunaid-hassan) -->
 <!--
 **zunaid-hassan/zunaid-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
