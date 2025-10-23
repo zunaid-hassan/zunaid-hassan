@@ -1,6 +1,7 @@
 ## Hello, I'm Zunaid
 **PhD student in Deep Learning • Engaged in The Odin Project (Fullstack JavaScript)**
-<!--  ![](https://komarev.com/ghpvc/?username=zunaid-hassan) -->
+
+![](https://komarev.com/ghpvc/?username=zunaid-hassan&style=pixel)
 <!--
 **zunaid-hassan/zunaid-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 [![TOP-JS](https://img.shields.io/badge/The%20Odin%20Project%20-%20Full%20Stack%20JavaScript-gold?style=for-the-badge&logo=theodinproject&logoColor=white)](https://www.theodinproject.com/)
+
+
