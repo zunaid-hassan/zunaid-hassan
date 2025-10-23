@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 
 [![HarvardX - CS50](https://img.shields.io/badge/HarvardX-CS50-A51C30?style=for-the-badge)](https://cs50.harvard.edu/x/)
 
+[![fCC - Full Stack](https://img.shields.io/badge/freeCodeCamp-Full%20Stack%20Developer-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/full-stack-developer/)
+
+
 
 
