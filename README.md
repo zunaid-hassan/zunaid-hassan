@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![TOP-JS](https://img.shields.io/badge/The%20Odin%20Project%20-%20Full%20Stack%20JavaScript-gold)](https://www.theodinproject.com/)
 
+[![TOP-JS](https://img.shields.io/badge/The%20Odin%20Project%20-%20Full%20Stack%20JavaScript-gold?style=for-the-badge&logo=theodinproject&logoColor=white)](https://www.theodinproject.com/)
